@@ -1,0 +1,15 @@
+.idea
+.installed.cfg
+.project
+.pydevproject
+*.egg-info
+*.pyc
+bin
+constraints-*-mxdev.txt
+develop-eggs
+include
+lib
+parts
+pyvenv.cfg
+requirements-*-mxdev.txt
+sources/
